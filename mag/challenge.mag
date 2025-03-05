@@ -1,0 +1,58 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1740388446
+<< checkpaint >>
+rect 1944 -2374 4886 784
+<< error_s >>
+rect 3017 -579 3075 -573
+rect 3017 -613 3029 -579
+rect 3017 -619 3075 -613
+rect 3017 -889 3075 -883
+rect 3017 -923 3029 -889
+rect 3017 -929 3075 -923
+<< metal1 >>
+rect 132 14754 388 14998
+rect 156 14752 356 14754
+rect -1780 8094 -1516 8106
+rect -1780 7894 8912 8094
+rect -1780 7844 -1516 7894
+rect -1744 6762 -1480 6788
+rect -1744 6570 8848 6762
+rect -1744 6562 -1260 6570
+rect -506 6562 -436 6570
+rect -1744 6526 -1480 6562
+rect 0 0 200 200
+rect 0 -400 200 -200
+rect 5302 -588 5366 -586
+rect 5276 -796 5492 -588
+use sky130_fd_pr__cap_mim_m3_1_BNHTNG  sky130_fd_pr__cap_mim_m3_1_BNHTNG_0
+timestamp 1711880980
+transform 1 0 6664 0 1 11124
+box -2186 -2040 2186 2040
+use sky130_fd_pr__cap_mim_m3_1_BNHTNG  XC1
+timestamp 1711880980
+transform 1 0 702 0 1 1032
+box -2186 -2040 2186 2040
+use sky130_fd_pr__nfet_01v8_648S5X  XM1
+timestamp 1711880980
+transform 1 0 3046 0 1 -751
+box -211 -310 211 310
+use sky130_fd_pr__pfet_01v8_XGS3BL  XM2
+timestamp 1711880980
+transform 1 0 3415 0 1 -795
+box -211 -319 211 319
+use sky130_fd_pr__res_high_po_0p35_TTBX7G  XR1
+timestamp 1711880980
+transform 1 0 -1685 0 1 5574
+box -201 -6582 201 6582
+<< labels >>
+flabel metal1 5276 -796 5492 -588 0 FreeSans 1600 0 0 0 out
+port 8 nsew
+flabel metal1 132 14754 388 14998 0 FreeSans 1600 0 0 0 in
+port 6 nsew
+flabel metal1 0 0 200 200 0 FreeSans 256 0 0 0 VDD
+port 0 nsew
+flabel metal1 0 -400 200 -200 0 FreeSans 256 0 0 0 VSS
+port 1 nsew
+<< end >>
