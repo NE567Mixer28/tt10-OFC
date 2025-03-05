@@ -1,4 +1,4 @@
-PROJECT_NAME ?= tt_um_magic_challenge
+PROJECT_NAME := OFC
 MAGIC_RC := $(PDK_ROOT)/sky130A/libs.tech/magic/sky130A.magicrc
 TEMPLATE_FILE := tt_analog_1x2.def
 #TEMPLATE_FILE := tt_analog_1x2_3v3.def

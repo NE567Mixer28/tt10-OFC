@@ -1,0 +1,75 @@
+* NGSPICE file created from OFC.ext - technology: sky130A
+
+.subckt sky130_fd_pr__pfet_01v8_SKC8VM w_n696_n719# a_n500_n597# a_500_n500# a_n558_n500#
+X0 a_500_n500# a_n500_n597# a_n558_n500# w_n696_n719# sky130_fd_pr__pfet_01v8 ad=1.45 pd=10.58 as=1.45 ps=10.58 w=5 l=5
+**devattr s=58000,2116 d=58000,2116
+.ends
+
+.subckt sky130_fd_pr__res_xhigh_po_0p35_8HWFQE a_n165_n861# a_n35_n731# a_n35_299#
+X0 a_n35_299# a_n35_n731# a_n165_n861# sky130_fd_pr__res_xhigh_po_0p35 l=3.15
+.ends
+
+.subckt sky130_fd_pr__res_xhigh_po_0p35_7RFGLT a_n35_484# a_n165_n1046# a_n35_n916#
+X0 a_n35_484# a_n35_n916# a_n165_n1046# sky130_fd_pr__res_xhigh_po_0p35 l=5
+.ends
+
+.subckt sky130_fd_pr__res_xhigh_po_0p35_YTZ25J a_n165_n732# a_n35_n602# a_n35_170#
+X0 a_n35_170# a_n35_n602# a_n165_n732# sky130_fd_pr__res_xhigh_po_0p35 l=1.86
+.ends
+
+.subckt sky130_fd_pr__pfet_01v8_6HANBW a_n158_n5472# a_n158_n3236# a_n158_n1000# a_100_1236#
++ a_100_3472# a_n100_n5569# a_100_n5472# a_100_n3236# a_n100_n1097# a_n158_1236# a_n158_3472#
++ a_n100_1139# a_n100_3375# w_n296_n5691# a_n100_n3333# a_100_n1000#
+X0 a_100_3472# a_n100_3375# a_n158_3472# w_n296_n5691# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+**devattr s=116000,4116 d=116000,4116
+X1 a_100_n5472# a_n100_n5569# a_n158_n5472# w_n296_n5691# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+**devattr s=116000,4116 d=116000,4116
+X2 a_100_1236# a_n100_1139# a_n158_1236# w_n296_n5691# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+**devattr s=116000,4116 d=116000,4116
+X3 a_100_n3236# a_n100_n3333# a_n158_n3236# w_n296_n5691# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+**devattr s=116000,4116 d=116000,4116
+X4 a_100_n1000# a_n100_n1097# a_n158_n1000# w_n296_n5691# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+**devattr s=116000,4116 d=116000,4116
+.ends
+
+.subckt sky130_fd_pr__nfet_01v8_Q33MQV a_1000_n200# a_n1058_n200# a_n1000_n288# a_n1160_n374#
+X0 a_1000_n200# a_n1000_n288# a_n1058_n200# a_n1160_n374# sky130_fd_pr__nfet_01v8 ad=0.58 pd=4.58 as=0.58 ps=4.58 w=2 l=10
+**devattr s=23200,916 d=23200,916
+.ends
+
+.subckt sky130_fd_pr__nfet_01v8_P3FTKA a_200_n300# a_n258_n300# a_n200_n388# a_n360_n474#
+X0 a_200_n300# a_n200_n388# a_n258_n300# a_n360_n474# sky130_fd_pr__nfet_01v8 ad=0.87 pd=6.58 as=0.87 ps=6.58 w=3 l=2
+**devattr s=34800,1316 d=34800,1316
+.ends
+
+.subckt sky130_fd_pr__pfet_01v8_TKMKND a_500_n1000# a_n558_n1000# a_n500_n1097# w_n696_n1219#
+X0 a_500_n1000# a_n500_n1097# a_n558_n1000# w_n696_n1219# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=5
+**devattr s=116000,4116 d=116000,4116
+.ends
+
+.subckt sky130_fd_pr__pfet_01v8_2C2MAW a_n100_n2647# a_100_n2550# a_n158_n2550# w_n296_n2769#
+X0 a_100_n2550# a_n100_n2647# a_n158_n2550# w_n296_n2769# sky130_fd_pr__pfet_01v8 ad=7.395 pd=51.58 as=7.395 ps=51.58 w=25.5 l=1
+**devattr s=295800,10316 d=295800,10316
+.ends
+
+.subckt OFC VDD GND IN+ IN- OUT
+XXM12 VDD Vp m1_3782_12678# VDD sky130_fd_pr__pfet_01v8_SKC8VM
+XXR1 GND GND Vc sky130_fd_pr__res_xhigh_po_0p35_8HWFQE
+XXR2 VDD GND Vp sky130_fd_pr__res_xhigh_po_0p35_7RFGLT
+XXR3 GND GND Vp sky130_fd_pr__res_xhigh_po_0p35_YTZ25J
+XXR5 VDD GND Vc sky130_fd_pr__res_xhigh_po_0p35_7RFGLT
+XXM1 li_2548_8318# li_2548_8318# li_2548_8318# D1 D1 IN+ D1 D1 IN+ li_2548_8318# li_2548_8318#
++ IN+ IN+ li_2548_8318# IN+ D1 sky130_fd_pr__pfet_01v8_6HANBW
+XXM2 li_2548_8318# li_2548_8318# li_2548_8318# D2 D2 IN- D2 D2 IN- li_2548_8318# li_2548_8318#
++ IN- IN- li_2548_8318# IN- D2 sky130_fd_pr__pfet_01v8_6HANBW
+XXM3 GND D1 Vc GND sky130_fd_pr__nfet_01v8_Q33MQV
+XXM4 GND D2 Vc GND sky130_fd_pr__nfet_01v8_Q33MQV
+XXM5 D1 G Vc GND sky130_fd_pr__nfet_01v8_P3FTKA
+XXM6 D2 OUT Vc GND sky130_fd_pr__nfet_01v8_P3FTKA
+XXM7 G D9 Vc D9 sky130_fd_pr__pfet_01v8_TKMKND
+XXM8 OUT D10 Vc D10 sky130_fd_pr__pfet_01v8_TKMKND
+XXM9 G D9 VDD VDD sky130_fd_pr__pfet_01v8_2C2MAW
+XXM10 G D10 VDD VDD sky130_fd_pr__pfet_01v8_2C2MAW
+XXM11 VDD Vp li_2548_8318# m1_3782_12678# sky130_fd_pr__pfet_01v8_SKC8VM
+.ends
+
