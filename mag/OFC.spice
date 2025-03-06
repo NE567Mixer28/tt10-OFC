@@ -1,0 +1,52 @@
+* SPICE3 file created from OFC.ext - technology: sky130A
+
+X0 m1_3782_12678# Vp VDD VDD sky130_fd_pr__pfet_01v8 ad=1.45 pd=10.58 as=1.45 ps=10.58 w=5 l=5
+X1 Vc GND GND sky130_fd_pr__res_xhigh_po_0p35 l=3.15
+X2 VDD Vp GND sky130_fd_pr__res_xhigh_po_0p35 l=5
+X3 Vp GND GND sky130_fd_pr__res_xhigh_po_0p35 l=1.86
+X4 VDD Vc GND sky130_fd_pr__res_xhigh_po_0p35 l=5
+X5 D1 IN+ li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+X6 D1 IN+ li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+X7 D1 IN+ li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+X8 D1 IN+ li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+X9 D1 IN+ li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=1
+X10 D2 IN- li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=14.5 pd=102.899994 as=30.45 ps=216.38 w=10 l=1
+X11 D2 IN- li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0 ps=0 w=10 l=1
+X12 D2 IN- li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0 ps=0 w=10 l=1
+X13 D2 IN- li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0 ps=0 w=10 l=1
+X14 D2 IN- li_2548_8318# li_2548_8318# sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0 ps=0 w=10 l=1
+X15 GND Vc D1 GND sky130_fd_pr__nfet_01v8 ad=0.58 pd=4.58 as=0.58 ps=4.58 w=2 l=10
+X16 GND Vc D2 GND sky130_fd_pr__nfet_01v8 ad=1.16 pd=9.16 as=1.45 ps=11.16 w=2 l=10
+X17 D1 Vc G GND sky130_fd_pr__nfet_01v8 ad=0.87 pd=6.58 as=0.87 ps=6.58 w=3 l=2
+X18 D2 Vc OUT GND sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.87 ps=6.58 w=3 l=2
+X19 G Vc D9 D9 sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=2.9 ps=20.58 w=10 l=5
+X20 D9 G VDD VDD sky130_fd_pr__pfet_01v8 ad=7.395 pd=51.58 as=7.395 ps=51.58 w=25.5 l=1
+X21 OUT Vc D10 D10 sky130_fd_pr__pfet_01v8 ad=2.9 pd=20.58 as=10.295 ps=72.159996 w=10 l=5
+X22 D10 G VDD VDD sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=16.24 ps=113.74 w=25.5 l=1
+X23 li_2548_8318# Vp m1_3782_12678# VDD sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=2.9 ps=21.16 w=5 l=5
+C0 VDD D10 3.27649f
+C1 D2 Vc 2.862505f
+C2 Vc D9 2.227901f
+C3 D2 li_2548_8318# 7.807508f
+C4 OUT Vc 2.678231f
+C5 li_2548_8318# IN- 2.78055f
+C6 VDD D9 3.270059f
+C7 VDD Vp 4.52634f
+C8 Vc G 2.004117f
+C9 VDD G 2.341756f
+C10 D1 li_2548_8318# 9.312049f
+C11 li_2548_8318# G 4.111836f
+C12 IN+ li_2548_8318# 2.817681f
+C13 Vc D10 2.452041f
+C14 IN- GND 3.367968f
+C15 IN+ GND 3.403747f
+C16 Vp GND 6.298695f **FLOATING
+C17 VDD GND 53.608517f
+C18 D10 GND 13.381235f **FLOATING
+C19 D9 GND 13.447489f **FLOATING
+C20 OUT GND 5.936543f
+C21 G GND 4.926733f **FLOATING
+C22 D1 GND 9.587111f **FLOATING
+C23 Vc GND 28.809446f **FLOATING
+C24 D2 GND 12.287473f **FLOATING
+C25 li_2548_8318# GND 66.54189f **FLOATING

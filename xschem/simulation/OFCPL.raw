@@ -1,0 +1,1243 @@
+Title: ** sch_path: /home/ttuser/tt10-ofc/xschem/ofcpl.sch
+Date: Thu Mar  6 16:36:18  2025
+Plotname: Operating Point
+Flags: real
+No. Variables: 1213
+No. Points: 1
+Variables:
+	0	v(x1.d1)	voltage
+	1	i(@b.x1.xr1.xsky130_fd_pr__res_xhigh_po_0p35.brbody[i])	current
+	2	i(@b.x1.xr1.xsky130_fd_pr__res_xhigh_po_0p35.brend[i])	current
+	3	i(@b.x1.xr2.xsky130_fd_pr__res_xhigh_po_0p35.brbody[i])	current
+	4	i(@b.x1.xr2.xsky130_fd_pr__res_xhigh_po_0p35.brend[i])	current
+	5	i(@b.x1.xr3.xsky130_fd_pr__res_xhigh_po_0p35.brbody[i])	current
+	6	i(@b.x1.xr3.xsky130_fd_pr__res_xhigh_po_0p35.brend[i])	current
+	7	i(@b.x1.xr5.xsky130_fd_pr__res_xhigh_po_0p35.brbody[i])	current
+	8	i(@b.x1.xr5.xsky130_fd_pr__res_xhigh_po_0p35.brend[i])	current
+	9	i(@b.x2.x0.xsky130_fd_pr__res_xhigh_po_0p35.brbody[i])	current
+	10	i(@b.x2.x0.xsky130_fd_pr__res_xhigh_po_0p35.brend[i])	current
+	11	i(@b.x2.x4.xsky130_fd_pr__res_xhigh_po_0p35.brbody[i])	current
+	12	i(@b.x2.x4.xsky130_fd_pr__res_xhigh_po_0p35.brend[i])	current
+	13	i(@b.x2.x7.xsky130_fd_pr__res_xhigh_po_0p35.brbody[i])	current
+	14	i(@b.x2.x7.xsky130_fd_pr__res_xhigh_po_0p35.brend[i])	current
+	15	i(@b.x2.x8.xsky130_fd_pr__res_xhigh_po_0p35.brbody[i])	current
+	16	i(@b.x2.x8.xsky130_fd_pr__res_xhigh_po_0p35.brend[i])	current
+	17	i(@c.x1.xr1.xsky130_fd_pr__res_xhigh_po_0p35.c1[i])	current
+	18	i(@c.x1.xr1.xsky130_fd_pr__res_xhigh_po_0p35.c2[i])	current
+	19	i(@c.x1.xr2.xsky130_fd_pr__res_xhigh_po_0p35.c1[i])	current
+	20	i(@c.x1.xr2.xsky130_fd_pr__res_xhigh_po_0p35.c2[i])	current
+	21	i(@c.x1.xr3.xsky130_fd_pr__res_xhigh_po_0p35.c1[i])	current
+	22	i(@c.x1.xr3.xsky130_fd_pr__res_xhigh_po_0p35.c2[i])	current
+	23	i(@c.x1.xr5.xsky130_fd_pr__res_xhigh_po_0p35.c1[i])	current
+	24	i(@c.x1.xr5.xsky130_fd_pr__res_xhigh_po_0p35.c2[i])	current
+	25	i(@c.x2.c0[i])	current
+	26	i(@c.x2.c1[i])	current
+	27	i(@c.x2.c2[i])	current
+	28	i(@c.x2.c3[i])	current
+	29	i(@c.x2.c4[i])	current
+	30	i(@c.x2.c5[i])	current
+	31	i(@c.x2.c6[i])	current
+	32	i(@c.x2.c7[i])	current
+	33	i(@c.x2.c8[i])	current
+	34	i(@c.x2.c9[i])	current
+	35	i(@c.x2.c10[i])	current
+	36	i(@c.x2.c11[i])	current
+	37	i(@c.x2.c12[i])	current
+	38	i(@c.x2.c13[i])	current
+	39	i(@c.x2.c14[i])	current
+	40	i(@c.x2.c15[i])	current
+	41	i(@c.x2.c16[i])	current
+	42	i(@c.x2.c17[i])	current
+	43	i(@c.x2.c18[i])	current
+	44	i(@c.x2.c19[i])	current
+	45	i(@c.x2.c20[i])	current
+	46	i(@c.x2.c21[i])	current
+	47	i(@c.x2.c22[i])	current
+	48	i(@c.x2.c23[i])	current
+	49	i(@c.x2.c24[i])	current
+	50	i(@c.x2.c25[i])	current
+	51	i(@c.x2.c26[i])	current
+	52	i(@c.x2.c27[i])	current
+	53	i(@c.x2.c28[i])	current
+	54	i(@c.x2.c29[i])	current
+	55	i(@c.x2.c30[i])	current
+	56	i(@c.x2.c31[i])	current
+	57	i(@c.x2.c32[i])	current
+	58	i(@c.x2.c33[i])	current
+	59	i(@c.x2.c34[i])	current
+	60	i(@c.x2.c35[i])	current
+	61	i(@c.x2.c36[i])	current
+	62	i(@c.x2.c37[i])	current
+	63	i(@c.x2.c38[i])	current
+	64	i(@c.x2.c39[i])	current
+	65	i(@c.x2.c40[i])	current
+	66	i(@c.x2.c41[i])	current
+	67	i(@c.x2.c42[i])	current
+	68	i(@c.x2.c43[i])	current
+	69	i(@c.x2.c44[i])	current
+	70	i(@c.x2.c45[i])	current
+	71	i(@c.x2.c46[i])	current
+	72	i(@c.x2.c47[i])	current
+	73	i(@c.x2.c48[i])	current
+	74	i(@c.x2.c49[i])	current
+	75	i(@c.x2.c50[i])	current
+	76	i(@c.x2.c51[i])	current
+	77	i(@c.x2.c52[i])	current
+	78	i(@c.x2.c53[i])	current
+	79	i(@c.x2.c54[i])	current
+	80	i(@c.x2.c55[i])	current
+	81	i(@c.x2.c56[i])	current
+	82	i(@c.x2.c57[i])	current
+	83	i(@c.x2.c58[i])	current
+	84	i(@c.x2.c59[i])	current
+	85	i(@c.x2.c60[i])	current
+	86	i(@c.x2.c61[i])	current
+	87	i(@c.x2.c62[i])	current
+	88	i(@c.x2.c63[i])	current
+	89	i(@c.x2.c64[i])	current
+	90	i(@c.x2.c65[i])	current
+	91	i(@c.x2.c66[i])	current
+	92	i(@c.x2.c67[i])	current
+	93	i(@c.x2.c68[i])	current
+	94	i(@c.x2.c69[i])	current
+	95	i(@c.x2.c70[i])	current
+	96	i(@c.x2.c71[i])	current
+	97	i(@c.x2.c72[i])	current
+	98	i(@c.x2.c73[i])	current
+	99	i(@c.x2.c74[i])	current
+	100	i(@c.x2.c75[i])	current
+	101	i(@c.x2.c76[i])	current
+	102	i(@c.x2.c77[i])	current
+	103	i(@c.x2.c78[i])	current
+	104	i(@c.x2.c79[i])	current
+	105	i(@c.x2.c80[i])	current
+	106	i(@c.x2.c81[i])	current
+	107	i(@c.x2.c82[i])	current
+	108	i(@c.x2.c83[i])	current
+	109	i(@c.x2.c84[i])	current
+	110	i(@c.x2.c85[i])	current
+	111	i(@c.x2.c86[i])	current
+	112	i(@c.x2.c87[i])	current
+	113	i(@c.x2.c88[i])	current
+	114	i(@c.x2.c89[i])	current
+	115	i(@c.x2.c90[i])	current
+	116	i(@c.x2.c91[i])	current
+	117	i(@c.x2.c92[i])	current
+	118	i(@c.x2.c93[i])	current
+	119	i(@c.x2.c94[i])	current
+	120	i(@c.x2.c95[i])	current
+	121	i(@c.x2.c96[i])	current
+	122	i(@c.x2.c97[i])	current
+	123	i(@c.x2.c98[i])	current
+	124	i(@c.x2.c99[i])	current
+	125	i(@c.x2.c100[i])	current
+	126	i(@c.x2.c101[i])	current
+	127	i(@c.x2.c102[i])	current
+	128	i(@c.x2.c103[i])	current
+	129	i(@c.x2.c104[i])	current
+	130	i(@c.x2.c105[i])	current
+	131	i(@c.x2.c106[i])	current
+	132	i(@c.x2.c107[i])	current
+	133	i(@c.x2.c108[i])	current
+	134	i(@c.x2.c109[i])	current
+	135	i(@c.x2.c110[i])	current
+	136	i(@c.x2.c111[i])	current
+	137	i(@c.x2.c112[i])	current
+	138	i(@c.x2.c113[i])	current
+	139	i(@c.x2.c114[i])	current
+	140	i(@c.x2.c115[i])	current
+	141	i(@c.x2.c116[i])	current
+	142	i(@c.x2.c117[i])	current
+	143	i(@c.x2.c118[i])	current
+	144	i(@c.x2.c119[i])	current
+	145	i(@c.x2.c120[i])	current
+	146	i(@c.x2.c121[i])	current
+	147	i(@c.x2.c122[i])	current
+	148	i(@c.x2.c123[i])	current
+	149	i(@c.x2.c124[i])	current
+	150	i(@c.x2.c125[i])	current
+	151	i(@c.x2.c126[i])	current
+	152	i(@c.x2.c127[i])	current
+	153	i(@c.x2.c128[i])	current
+	154	i(@c.x2.c129[i])	current
+	155	i(@c.x2.c130[i])	current
+	156	i(@c.x2.c131[i])	current
+	157	i(@c.x2.c132[i])	current
+	158	i(@c.x2.c133[i])	current
+	159	i(@c.x2.c134[i])	current
+	160	i(@c.x2.c135[i])	current
+	161	i(@c.x2.c136[i])	current
+	162	i(@c.x2.c137[i])	current
+	163	i(@c.x2.c138[i])	current
+	164	i(@c.x2.c139[i])	current
+	165	i(@c.x2.c140[i])	current
+	166	i(@c.x2.c141[i])	current
+	167	i(@c.x2.c142[i])	current
+	168	i(@c.x2.c143[i])	current
+	169	i(@c.x2.c144[i])	current
+	170	i(@c.x2.c145[i])	current
+	171	i(@c.x2.c146[i])	current
+	172	i(@c.x2.c147[i])	current
+	173	i(@c.x2.c148[i])	current
+	174	i(@c.x2.c149[i])	current
+	175	i(@c.x2.c150[i])	current
+	176	i(@c.x2.c151[i])	current
+	177	i(@c.x2.c152[i])	current
+	178	i(@c.x2.c153[i])	current
+	179	i(@c.x2.c154[i])	current
+	180	i(@c.x2.c155[i])	current
+	181	i(@c.x2.c156[i])	current
+	182	i(@c.x2.c157[i])	current
+	183	i(@c.x2.c158[i])	current
+	184	i(@c.x2.c159[i])	current
+	185	i(@c.x2.c160[i])	current
+	186	i(@c.x2.c161[i])	current
+	187	i(@c.x2.c162[i])	current
+	188	i(@c.x2.c163[i])	current
+	189	i(@c.x2.c164[i])	current
+	190	i(@c.x2.c165[i])	current
+	191	i(@c.x2.c166[i])	current
+	192	i(@c.x2.c167[i])	current
+	193	i(@c.x2.c168[i])	current
+	194	i(@c.x2.c169[i])	current
+	195	i(@c.x2.c170[i])	current
+	196	i(@c.x2.c171[i])	current
+	197	i(@c.x2.c172[i])	current
+	198	i(@c.x2.c173[i])	current
+	199	i(@c.x2.c174[i])	current
+	200	i(@c.x2.c175[i])	current
+	201	i(@c.x2.c176[i])	current
+	202	i(@c.x2.c177[i])	current
+	203	i(@c.x2.c178[i])	current
+	204	i(@c.x2.c179[i])	current
+	205	i(@c.x2.c180[i])	current
+	206	i(@c.x2.c181[i])	current
+	207	i(@c.x2.c182[i])	current
+	208	i(@c.x2.c183[i])	current
+	209	i(@c.x2.c184[i])	current
+	210	i(@c.x2.c185[i])	current
+	211	i(@c.x2.c186[i])	current
+	212	i(@c.x2.c187[i])	current
+	213	i(@c.x2.c188[i])	current
+	214	i(@c.x2.c189[i])	current
+	215	i(@c.x2.c190[i])	current
+	216	i(@c.x2.c191[i])	current
+	217	i(@c.x2.c192[i])	current
+	218	i(@c.x2.c193[i])	current
+	219	i(@c.x2.c194[i])	current
+	220	i(@c.x2.c195[i])	current
+	221	i(@c.x2.c196[i])	current
+	222	i(@c.x2.c197[i])	current
+	223	i(@c.x2.c198[i])	current
+	224	i(@c.x2.c199[i])	current
+	225	i(@c.x2.c200[i])	current
+	226	i(@c.x2.c201[i])	current
+	227	i(@c.x2.c202[i])	current
+	228	i(@c.x2.c203[i])	current
+	229	i(@c.x2.c204[i])	current
+	230	i(@c.x2.c205[i])	current
+	231	i(@c.x2.c206[i])	current
+	232	i(@c.x2.c207[i])	current
+	233	i(@c.x2.c208[i])	current
+	234	i(@c.x2.c209[i])	current
+	235	i(@c.x2.c210[i])	current
+	236	i(@c.x2.c211[i])	current
+	237	i(@c.x2.c212[i])	current
+	238	i(@c.x2.c213[i])	current
+	239	i(@c.x2.c214[i])	current
+	240	i(@c.x2.c215[i])	current
+	241	i(@c.x2.c216[i])	current
+	242	i(@c.x2.c217[i])	current
+	243	i(@c.x2.c218[i])	current
+	244	i(@c.x2.c219[i])	current
+	245	i(@c.x2.c220[i])	current
+	246	i(@c.x2.c221[i])	current
+	247	i(@c.x2.c222[i])	current
+	248	i(@c.x2.c223[i])	current
+	249	i(@c.x2.c224[i])	current
+	250	i(@c.x2.c225[i])	current
+	251	i(@c.x2.c226[i])	current
+	252	i(@c.x2.x0.xsky130_fd_pr__res_xhigh_po_0p35.c1[i])	current
+	253	i(@c.x2.x0.xsky130_fd_pr__res_xhigh_po_0p35.c2[i])	current
+	254	i(@c.x2.x4.xsky130_fd_pr__res_xhigh_po_0p35.c1[i])	current
+	255	i(@c.x2.x4.xsky130_fd_pr__res_xhigh_po_0p35.c2[i])	current
+	256	i(@c.x2.x7.xsky130_fd_pr__res_xhigh_po_0p35.c1[i])	current
+	257	i(@c.x2.x7.xsky130_fd_pr__res_xhigh_po_0p35.c2[i])	current
+	258	i(@c.x2.x8.xsky130_fd_pr__res_xhigh_po_0p35.c1[i])	current
+	259	i(@c.x2.x8.xsky130_fd_pr__res_xhigh_po_0p35.c2[i])	current
+	260	i(@c1[i])	current
+	261	i(@c2[i])	current
+	262	i(@m.x1.xm1.msky130_fd_pr__pfet_01v8[id])	current
+	263	i(@m.x1.xm2.msky130_fd_pr__pfet_01v8[id])	current
+	264	i(@m.x1.xm3.msky130_fd_pr__nfet_01v8[id])	current
+	265	i(@m.x1.xm4.msky130_fd_pr__nfet_01v8[id])	current
+	266	i(@m.x1.xm5.msky130_fd_pr__nfet_01v8[id])	current
+	267	i(@m.x1.xm6.msky130_fd_pr__nfet_01v8[id])	current
+	268	i(@m.x1.xm7.msky130_fd_pr__pfet_01v8[id])	current
+	269	i(@m.x1.xm8.msky130_fd_pr__pfet_01v8[id])	current
+	270	i(@m.x1.xm9.msky130_fd_pr__pfet_01v8[id])	current
+	271	i(@m.x1.xm10.msky130_fd_pr__pfet_01v8[id])	current
+	272	i(@m.x1.xm11.msky130_fd_pr__pfet_01v8[id])	current
+	273	i(@m.x1.xm12.msky130_fd_pr__pfet_01v8[id])	current
+	274	i(@m.x2.x1.msky130_fd_pr__pfet_01v8[id])	current
+	275	i(@m.x2.x2.msky130_fd_pr__pfet_01v8[id])	current
+	276	i(@m.x2.x3.msky130_fd_pr__pfet_01v8[id])	current
+	277	i(@m.x2.x5.msky130_fd_pr__pfet_01v8[id])	current
+	278	i(@m.x2.x6.msky130_fd_pr__pfet_01v8[id])	current
+	279	i(@m.x2.x9.msky130_fd_pr__nfet_01v8[id])	current
+	280	i(@m.x2.x10.msky130_fd_pr__pfet_01v8[id])	current
+	281	i(@m.x2.x11.msky130_fd_pr__pfet_01v8[id])	current
+	282	i(@m.x2.x12.msky130_fd_pr__pfet_01v8[id])	current
+	283	i(@m.x2.x13.msky130_fd_pr__pfet_01v8[id])	current
+	284	i(@m.x2.x14.msky130_fd_pr__pfet_01v8[id])	current
+	285	i(@m.x2.x15.msky130_fd_pr__pfet_01v8[id])	current
+	286	i(@m.x2.x16.msky130_fd_pr__pfet_01v8[id])	current
+	287	i(@m.x2.x17.msky130_fd_pr__pfet_01v8[id])	current
+	288	i(@m.x2.x18.msky130_fd_pr__pfet_01v8[id])	current
+	289	i(@m.x2.x19.msky130_fd_pr__nfet_01v8[id])	current
+	290	i(@m.x2.x20.msky130_fd_pr__nfet_01v8[id])	current
+	291	i(@m.x2.x21.msky130_fd_pr__pfet_01v8[id])	current
+	292	i(@m.x2.x22.msky130_fd_pr__pfet_01v8[id])	current
+	293	i(@m.x2.x23.msky130_fd_pr__nfet_01v8[id])	current
+	294	i(@r.x2.r0[i])	current
+	295	i(@r.x2.r1[i])	current
+	296	i(@r.x2.r2[i])	current
+	297	i(@r.x2.r3[i])	current
+	298	i(@r.x2.r4[i])	current
+	299	i(@r.x2.r5[i])	current
+	300	i(@r.x2.r6[i])	current
+	301	i(@r.x2.r7[i])	current
+	302	i(@r.x2.r8[i])	current
+	303	i(@r.x2.r9[i])	current
+	304	i(@r.x2.r10[i])	current
+	305	i(@r.x2.r11[i])	current
+	306	i(@r.x2.r12[i])	current
+	307	i(@r.x2.r13[i])	current
+	308	i(@r.x2.r14[i])	current
+	309	i(@r.x2.r15[i])	current
+	310	i(@r.x2.r16[i])	current
+	311	i(@r.x2.r17[i])	current
+	312	i(@r.x2.r18[i])	current
+	313	i(@r.x2.r19[i])	current
+	314	i(@r.x2.r20[i])	current
+	315	i(@r.x2.r21[i])	current
+	316	i(@r.x2.r22[i])	current
+	317	i(@r.x2.r23[i])	current
+	318	i(@r.x2.r24[i])	current
+	319	i(@r.x2.r25[i])	current
+	320	i(@r.x2.r26[i])	current
+	321	i(@r.x2.r27[i])	current
+	322	i(@r.x2.r28[i])	current
+	323	i(@r.x2.r29[i])	current
+	324	i(@r.x2.r30[i])	current
+	325	i(@r.x2.r31[i])	current
+	326	i(@r.x2.r32[i])	current
+	327	i(@r.x2.r33[i])	current
+	328	i(@r.x2.r34[i])	current
+	329	i(@r.x2.r35[i])	current
+	330	i(@r.x2.r36[i])	current
+	331	i(@r.x2.r37[i])	current
+	332	i(@r.x2.r38[i])	current
+	333	i(@r.x2.r39[i])	current
+	334	i(@r.x2.r40[i])	current
+	335	i(@r.x2.r41[i])	current
+	336	i(@r.x2.r42[i])	current
+	337	i(@r.x2.r43[i])	current
+	338	i(@r.x2.r44[i])	current
+	339	i(@r.x2.r45[i])	current
+	340	i(@r.x2.r46[i])	current
+	341	i(@r.x2.r47[i])	current
+	342	i(@r.x2.r48[i])	current
+	343	i(@r.x2.r49[i])	current
+	344	i(@r.x2.r50[i])	current
+	345	i(@r.x2.r51[i])	current
+	346	i(@r.x2.r52[i])	current
+	347	i(@r.x2.r53[i])	current
+	348	i(@r.x2.r54[i])	current
+	349	i(@r.x2.r55[i])	current
+	350	i(@r.x2.r56[i])	current
+	351	i(@r.x2.r57[i])	current
+	352	i(@r.x2.r58[i])	current
+	353	i(@r.x2.r59[i])	current
+	354	i(@r.x2.r60[i])	current
+	355	i(@r.x2.r61[i])	current
+	356	i(@r.x2.r62[i])	current
+	357	i(@r.x2.r63[i])	current
+	358	i(@r.x2.r64[i])	current
+	359	i(@r.x2.r65[i])	current
+	360	i(@r.x2.r66[i])	current
+	361	i(@r.x2.r67[i])	current
+	362	i(@r.x2.r68[i])	current
+	363	i(@r.x2.r69[i])	current
+	364	i(@r.x2.r70[i])	current
+	365	i(@r.x2.r71[i])	current
+	366	i(@r.x2.r72[i])	current
+	367	i(@r.x2.r73[i])	current
+	368	i(@r.x2.r74[i])	current
+	369	i(@r.x2.r75[i])	current
+	370	i(@r.x2.r76[i])	current
+	371	i(@r.x2.r77[i])	current
+	372	i(@r.x2.r78[i])	current
+	373	i(@r.x2.r79[i])	current
+	374	i(@r.x2.r80[i])	current
+	375	i(@r.x2.r81[i])	current
+	376	i(@r.x2.r82[i])	current
+	377	i(@r.x2.r83[i])	current
+	378	i(@r.x2.r84[i])	current
+	379	i(@r.x2.r85[i])	current
+	380	i(@r.x2.r86[i])	current
+	381	i(@r.x2.r87[i])	current
+	382	i(@r.x2.r88[i])	current
+	383	i(@r.x2.r89[i])	current
+	384	i(@r.x2.r90[i])	current
+	385	i(@r.x2.r91[i])	current
+	386	i(@r.x2.r92[i])	current
+	387	i(@r.x2.r93[i])	current
+	388	i(@r.x2.r94[i])	current
+	389	i(@r.x2.r95[i])	current
+	390	i(@r.x2.r96[i])	current
+	391	i(@r.x2.r97[i])	current
+	392	i(@r.x2.r98[i])	current
+	393	i(@r.x2.r99[i])	current
+	394	i(@r.x2.r100[i])	current
+	395	i(@r.x2.r101[i])	current
+	396	i(@r.x2.r102[i])	current
+	397	i(@r.x2.r103[i])	current
+	398	i(@r.x2.r104[i])	current
+	399	i(@r.x2.r105[i])	current
+	400	i(@r.x2.r106[i])	current
+	401	i(@r.x2.r107[i])	current
+	402	i(@r.x2.r108[i])	current
+	403	i(@r.x2.r109[i])	current
+	404	i(@r.x2.r110[i])	current
+	405	i(@r.x2.r111[i])	current
+	406	i(@r.x2.r112[i])	current
+	407	i(@r.x2.r113[i])	current
+	408	i(@r.x2.r114[i])	current
+	409	i(@r.x2.r115[i])	current
+	410	i(@r.x2.r116[i])	current
+	411	i(@r.x2.r117[i])	current
+	412	i(@r.x2.r118[i])	current
+	413	i(@r.x2.r119[i])	current
+	414	i(@r.x2.r120[i])	current
+	415	i(@r.x2.r121[i])	current
+	416	i(@r.x2.r122[i])	current
+	417	i(@r.x2.r123[i])	current
+	418	i(@r.x2.r124[i])	current
+	419	i(@r.x2.r125[i])	current
+	420	i(@r.x2.r126[i])	current
+	421	i(@r.x2.r127[i])	current
+	422	i(@r.x2.r128[i])	current
+	423	i(@r.x2.r129[i])	current
+	424	i(@r.x2.r130[i])	current
+	425	i(@r.x2.r131[i])	current
+	426	i(@r.x2.r132[i])	current
+	427	i(@r.x2.r133[i])	current
+	428	i(@r.x2.r134[i])	current
+	429	i(@r.x2.r135[i])	current
+	430	i(@r.x2.r136[i])	current
+	431	i(@r.x2.r137[i])	current
+	432	i(@r.x2.r138[i])	current
+	433	i(@r.x2.r139[i])	current
+	434	i(@r.x2.r140[i])	current
+	435	i(@r.x2.r141[i])	current
+	436	i(@r.x2.r142[i])	current
+	437	i(@r.x2.r143[i])	current
+	438	i(@r.x2.r144[i])	current
+	439	i(@r.x2.r145[i])	current
+	440	i(@r.x2.r146[i])	current
+	441	i(@r.x2.r147[i])	current
+	442	i(@r.x2.r148[i])	current
+	443	i(@r.x2.r149[i])	current
+	444	i(@r.x2.r150[i])	current
+	445	i(@r.x2.r151[i])	current
+	446	i(@r.x2.r152[i])	current
+	447	i(@r.x2.r153[i])	current
+	448	i(@r.x2.r154[i])	current
+	449	i(@r.x2.r155[i])	current
+	450	i(@r.x2.r156[i])	current
+	451	i(@r.x2.r157[i])	current
+	452	i(@r.x2.r158[i])	current
+	453	i(@r.x2.r159[i])	current
+	454	i(@r.x2.r160[i])	current
+	455	i(@r.x2.r161[i])	current
+	456	i(@r.x2.r162[i])	current
+	457	i(@r.x2.r163[i])	current
+	458	i(@r.x2.r164[i])	current
+	459	i(@r.x2.r165[i])	current
+	460	i(@r.x2.r166[i])	current
+	461	i(@r.x2.r167[i])	current
+	462	i(@r.x2.r168[i])	current
+	463	i(@r.x2.r169[i])	current
+	464	i(@r.x2.r170[i])	current
+	465	i(@r.x2.r171[i])	current
+	466	i(@r.x2.r172[i])	current
+	467	i(@r.x2.r173[i])	current
+	468	i(@r.x2.r174[i])	current
+	469	i(@r.x2.r175[i])	current
+	470	i(@r.x2.r176[i])	current
+	471	i(@r.x2.r177[i])	current
+	472	i(@r.x2.r178[i])	current
+	473	i(@r.x2.r179[i])	current
+	474	i(@r.x2.r180[i])	current
+	475	i(@r.x2.r181[i])	current
+	476	i(@r.x2.r182[i])	current
+	477	i(@r.x2.r183[i])	current
+	478	i(@r.x2.r184[i])	current
+	479	i(@r.x2.r185[i])	current
+	480	i(@r.x2.r186[i])	current
+	481	i(@r.x2.r187[i])	current
+	482	i(@r.x2.r188[i])	current
+	483	i(@r.x2.r189[i])	current
+	484	i(@r.x2.r190[i])	current
+	485	i(@r.x2.r191[i])	current
+	486	i(@r.x2.r192[i])	current
+	487	i(@r.x2.r193[i])	current
+	488	i(@r.x2.r194[i])	current
+	489	i(@r.x2.r195[i])	current
+	490	i(@r.x2.r196[i])	current
+	491	i(@r.x2.r197[i])	current
+	492	i(@r.x2.r198[i])	current
+	493	i(@r.x2.r199[i])	current
+	494	i(@r.x2.r200[i])	current
+	495	i(@r.x2.r201[i])	current
+	496	i(@r.x2.r202[i])	current
+	497	i(@r.x2.r203[i])	current
+	498	i(@r.x2.r204[i])	current
+	499	i(@r.x2.r205[i])	current
+	500	i(@r.x2.r206[i])	current
+	501	i(@r.x2.r207[i])	current
+	502	i(@r.x2.r208[i])	current
+	503	i(@r.x2.r209[i])	current
+	504	i(@r.x2.r210[i])	current
+	505	i(@r.x2.r211[i])	current
+	506	i(@r.x2.r212[i])	current
+	507	i(@r.x2.r213[i])	current
+	508	i(@r.x2.r214[i])	current
+	509	i(@r.x2.r215[i])	current
+	510	i(@r.x2.r216[i])	current
+	511	i(@r.x2.r217[i])	current
+	512	i(@r.x2.r218[i])	current
+	513	i(@r.x2.r219[i])	current
+	514	i(@r.x2.r220[i])	current
+	515	i(@r.x2.r221[i])	current
+	516	i(@r.x2.r222[i])	current
+	517	i(@r.x2.r223[i])	current
+	518	i(@r.x2.r224[i])	current
+	519	i(@r.x2.r225[i])	current
+	520	i(@r.x2.r226[i])	current
+	521	i(@r.x2.r227[i])	current
+	522	i(@r.x2.r228[i])	current
+	523	i(@r.x2.r229[i])	current
+	524	i(@r.x2.r230[i])	current
+	525	i(@r.x2.r231[i])	current
+	526	i(@r.x2.r232[i])	current
+	527	i(@r.x2.r233[i])	current
+	528	i(@r.x2.r234[i])	current
+	529	i(@r.x2.r235[i])	current
+	530	i(@r.x2.r236[i])	current
+	531	i(@r.x2.r237[i])	current
+	532	i(@r.x2.r238[i])	current
+	533	i(@r.x2.r239[i])	current
+	534	i(@r.x2.r240[i])	current
+	535	i(@r.x2.r241[i])	current
+	536	i(@r.x2.r242[i])	current
+	537	i(@r.x2.r243[i])	current
+	538	i(@r.x2.r244[i])	current
+	539	i(@r.x2.r245[i])	current
+	540	i(@r.x2.r246[i])	current
+	541	i(@r.x2.r247[i])	current
+	542	i(@r.x2.r248[i])	current
+	543	i(@r.x2.r249[i])	current
+	544	i(@r.x2.r250[i])	current
+	545	i(@r.x2.r251[i])	current
+	546	i(@r.x2.r252[i])	current
+	547	i(@r.x2.r253[i])	current
+	548	i(@r.x2.r254[i])	current
+	549	i(@r.x2.r255[i])	current
+	550	i(@r.x2.r256[i])	current
+	551	i(@r.x2.r257[i])	current
+	552	i(@r.x2.r258[i])	current
+	553	i(@r.x2.r259[i])	current
+	554	i(@r.x2.r260[i])	current
+	555	i(@r.x2.r261[i])	current
+	556	i(@r.x2.r262[i])	current
+	557	i(@r.x2.r263[i])	current
+	558	i(@r.x2.r264[i])	current
+	559	i(@r.x2.r265[i])	current
+	560	i(@r.x2.r266[i])	current
+	561	i(@r.x2.r267[i])	current
+	562	i(@r.x2.r268[i])	current
+	563	i(@r.x2.r269[i])	current
+	564	i(@r.x2.r270[i])	current
+	565	i(@r.x2.r271[i])	current
+	566	i(@r.x2.r272[i])	current
+	567	i(@r.x2.r273[i])	current
+	568	i(@r.x2.r274[i])	current
+	569	i(@r.x2.r275[i])	current
+	570	i(@r.x2.r276[i])	current
+	571	i(@r.x2.r277[i])	current
+	572	i(@r.x2.r278[i])	current
+	573	i(@r.x2.r279[i])	current
+	574	i(@r.x2.r280[i])	current
+	575	i(@r.x2.r281[i])	current
+	576	i(@r.x2.r282[i])	current
+	577	i(@r.x2.r283[i])	current
+	578	i(@r.x2.r284[i])	current
+	579	i(@r.x2.r285[i])	current
+	580	i(@r.x2.r286[i])	current
+	581	i(@r.x2.r287[i])	current
+	582	i(@r.x2.r288[i])	current
+	583	i(@r.x2.r289[i])	current
+	584	i(@r.x2.r290[i])	current
+	585	i(@r.x2.r291[i])	current
+	586	i(@r.x2.r292[i])	current
+	587	i(@r.x2.r293[i])	current
+	588	i(@r.x2.r294[i])	current
+	589	i(@r.x2.r295[i])	current
+	590	i(@r.x2.r296[i])	current
+	591	i(@r.x2.r297[i])	current
+	592	i(@r.x2.r298[i])	current
+	593	i(@r.x2.r299[i])	current
+	594	i(@r.x2.r300[i])	current
+	595	i(@r.x2.r301[i])	current
+	596	i(@r.x2.r302[i])	current
+	597	i(@r.x2.r303[i])	current
+	598	i(@r.x2.r304[i])	current
+	599	i(@r.x2.r305[i])	current
+	600	i(@r.x2.r306[i])	current
+	601	i(@r.x2.r307[i])	current
+	602	i(@r.x2.r308[i])	current
+	603	i(@r.x2.r309[i])	current
+	604	i(@r.x2.r310[i])	current
+	605	i(@r.x2.r311[i])	current
+	606	i(@r.x2.r312[i])	current
+	607	i(@r.x2.r313[i])	current
+	608	i(@r.x2.r314[i])	current
+	609	i(@r.x2.r315[i])	current
+	610	i(@r.x2.r316[i])	current
+	611	i(@r.x2.r317[i])	current
+	612	i(@r.x2.r318[i])	current
+	613	i(@r.x2.r319[i])	current
+	614	i(@r.x2.r320[i])	current
+	615	i(@r.x2.r321[i])	current
+	616	i(@r.x2.r322[i])	current
+	617	i(@r.x2.r323[i])	current
+	618	i(@r.x2.r324[i])	current
+	619	i(@r.x2.r325[i])	current
+	620	i(@r.x2.r326[i])	current
+	621	i(@r.x2.r327[i])	current
+	622	i(@r.x2.r328[i])	current
+	623	i(@r.x2.r329[i])	current
+	624	i(@r.x2.r330[i])	current
+	625	i(@r.x2.r331[i])	current
+	626	i(@r.x2.r332[i])	current
+	627	i(@r.x2.r333[i])	current
+	628	i(@r.x2.r334[i])	current
+	629	i(@r.x2.r335[i])	current
+	630	i(@r.x2.r336[i])	current
+	631	i(@r.x2.r337[i])	current
+	632	i(@r.x2.r338[i])	current
+	633	i(@r.x2.r339[i])	current
+	634	i(@r.x2.r340[i])	current
+	635	i(@r.x2.r341[i])	current
+	636	i(@r.x2.r342[i])	current
+	637	i(@r.x2.r343[i])	current
+	638	i(@r.x2.r344[i])	current
+	639	i(@r.x2.r345[i])	current
+	640	i(@r.x2.r346[i])	current
+	641	i(@r.x2.r347[i])	current
+	642	i(@r.x2.r348[i])	current
+	643	i(@r.x2.r349[i])	current
+	644	i(@r.x2.r350[i])	current
+	645	i(@r.x2.r351[i])	current
+	646	i(@r.x2.r352[i])	current
+	647	i(@r.x2.r353[i])	current
+	648	i(@r.x2.r354[i])	current
+	649	i(@r.x2.r355[i])	current
+	650	i(@r.x2.r356[i])	current
+	651	i(@r.x2.r357[i])	current
+	652	i(@r.x2.r358[i])	current
+	653	i(@r.x2.r359[i])	current
+	654	i(@r.x2.r360[i])	current
+	655	i(@r.x2.r361[i])	current
+	656	i(@r.x2.r362[i])	current
+	657	i(@r.x2.r363[i])	current
+	658	i(@r.x2.r364[i])	current
+	659	i(@r.x2.r365[i])	current
+	660	i(@r.x2.r366[i])	current
+	661	i(@r.x2.r367[i])	current
+	662	i(@r.x2.r368[i])	current
+	663	i(@r.x2.r369[i])	current
+	664	i(@r.x2.r370[i])	current
+	665	i(@r.x2.r371[i])	current
+	666	i(@r.x2.r372[i])	current
+	667	i(@r.x2.r373[i])	current
+	668	i(@r.x2.r374[i])	current
+	669	i(@r.x2.r375[i])	current
+	670	i(@r.x2.r376[i])	current
+	671	i(@r.x2.r377[i])	current
+	672	i(@r.x2.r378[i])	current
+	673	i(@r.x2.r379[i])	current
+	674	i(@r.x2.r380[i])	current
+	675	i(@r.x2.r381[i])	current
+	676	i(@r.x2.r382[i])	current
+	677	i(@r.x2.r383[i])	current
+	678	i(@r.x2.r384[i])	current
+	679	i(@r.x2.r385[i])	current
+	680	i(@r.x2.r386[i])	current
+	681	i(@r.x2.r387[i])	current
+	682	i(@r.x2.r388[i])	current
+	683	i(@r.x2.r389[i])	current
+	684	i(@r.x2.r390[i])	current
+	685	i(@r.x2.r391[i])	current
+	686	i(@r.x2.r392[i])	current
+	687	i(@r.x2.r393[i])	current
+	688	i(@r.x2.r394[i])	current
+	689	i(@r.x2.r395[i])	current
+	690	i(@r.x2.r396[i])	current
+	691	i(@r.x2.r397[i])	current
+	692	i(@r.x2.r398[i])	current
+	693	i(@r.x2.r399[i])	current
+	694	i(@r.x2.r400[i])	current
+	695	i(@r.x2.r401[i])	current
+	696	i(@r.x2.r402[i])	current
+	697	i(@r.x2.r403[i])	current
+	698	i(@r.x2.r404[i])	current
+	699	i(@r.x2.r405[i])	current
+	700	i(@r.x2.r406[i])	current
+	701	i(@r.x2.r407[i])	current
+	702	i(@r.x2.r408[i])	current
+	703	i(@r.x2.r409[i])	current
+	704	i(@r.x2.r410[i])	current
+	705	i(@r.x2.r411[i])	current
+	706	i(@r.x2.r412[i])	current
+	707	i(@r.x2.r413[i])	current
+	708	i(@r.x2.r414[i])	current
+	709	i(@r.x2.r415[i])	current
+	710	i(@r.x2.r416[i])	current
+	711	i(@r.x2.r417[i])	current
+	712	i(@r.x2.r418[i])	current
+	713	i(@r.x2.r419[i])	current
+	714	i(@r.x2.r420[i])	current
+	715	i(@r.x2.r421[i])	current
+	716	i(@r.x2.r422[i])	current
+	717	i(@r.x2.r423[i])	current
+	718	i(@r.x2.r424[i])	current
+	719	i(@r.x2.r425[i])	current
+	720	i(@r.x2.r426[i])	current
+	721	i(@r.x2.r427[i])	current
+	722	i(@r.x2.r428[i])	current
+	723	i(@r.x2.r429[i])	current
+	724	i(@r.x2.r430[i])	current
+	725	i(@r.x2.r431[i])	current
+	726	i(@r.x2.r432[i])	current
+	727	i(@r.x2.r433[i])	current
+	728	i(@r.x2.r434[i])	current
+	729	i(@r.x2.r435[i])	current
+	730	i(@r.x2.r436[i])	current
+	731	i(@r.x2.r437[i])	current
+	732	i(@r.x2.r438[i])	current
+	733	i(@r.x2.r439[i])	current
+	734	i(@r.x2.r440[i])	current
+	735	i(@r.x2.r441[i])	current
+	736	i(@r.x2.r442[i])	current
+	737	i(@r.x2.r443[i])	current
+	738	i(@r.x2.r444[i])	current
+	739	i(@r.x2.r445[i])	current
+	740	i(@r.x2.r446[i])	current
+	741	i(@r.x2.r447[i])	current
+	742	i(@r.x2.r448[i])	current
+	743	i(@r.x2.r449[i])	current
+	744	i(@r.x2.r450[i])	current
+	745	i(@r.x2.r451[i])	current
+	746	i(@r.x2.r452[i])	current
+	747	i(@r.x2.r453[i])	current
+	748	i(@r.x2.r454[i])	current
+	749	i(@r.x2.r455[i])	current
+	750	i(@r.x2.r456[i])	current
+	751	i(@r.x2.r457[i])	current
+	752	i(@r.x2.r458[i])	current
+	753	i(@r.x2.r459[i])	current
+	754	i(@r.x2.r460[i])	current
+	755	i(@r.x2.r461[i])	current
+	756	i(@r.x2.r462[i])	current
+	757	i(@r1[i])	current
+	758	i(@r2[i])	current
+	759	v(in+)	voltage
+	760	v(in-)	voltage
+	761	v(m.x1.xm1.msky130_fd_pr__pfet_01v8#body)	voltage
+	762	v(m.x1.xm1.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	763	v(m.x1.xm1.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	764	v(m.x1.xm2.msky130_fd_pr__pfet_01v8#body)	voltage
+	765	v(m.x1.xm2.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	766	v(m.x1.xm2.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	767	v(m.x1.xm3.msky130_fd_pr__nfet_01v8#body)	voltage
+	768	v(m.x1.xm3.msky130_fd_pr__nfet_01v8#dbody)	voltage
+	769	v(m.x1.xm3.msky130_fd_pr__nfet_01v8#sbody)	voltage
+	770	v(m.x1.xm4.msky130_fd_pr__nfet_01v8#body)	voltage
+	771	v(m.x1.xm4.msky130_fd_pr__nfet_01v8#dbody)	voltage
+	772	v(m.x1.xm4.msky130_fd_pr__nfet_01v8#sbody)	voltage
+	773	v(m.x1.xm5.msky130_fd_pr__nfet_01v8#body)	voltage
+	774	v(m.x1.xm5.msky130_fd_pr__nfet_01v8#dbody)	voltage
+	775	v(m.x1.xm5.msky130_fd_pr__nfet_01v8#sbody)	voltage
+	776	v(m.x1.xm6.msky130_fd_pr__nfet_01v8#body)	voltage
+	777	v(m.x1.xm6.msky130_fd_pr__nfet_01v8#dbody)	voltage
+	778	v(m.x1.xm6.msky130_fd_pr__nfet_01v8#sbody)	voltage
+	779	v(m.x1.xm7.msky130_fd_pr__pfet_01v8#body)	voltage
+	780	v(m.x1.xm7.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	781	v(m.x1.xm7.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	782	v(m.x1.xm8.msky130_fd_pr__pfet_01v8#body)	voltage
+	783	v(m.x1.xm8.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	784	v(m.x1.xm8.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	785	v(m.x1.xm9.msky130_fd_pr__pfet_01v8#body)	voltage
+	786	v(m.x1.xm9.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	787	v(m.x1.xm9.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	788	v(m.x1.xm10.msky130_fd_pr__pfet_01v8#body)	voltage
+	789	v(m.x1.xm10.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	790	v(m.x1.xm10.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	791	v(m.x1.xm11.msky130_fd_pr__pfet_01v8#body)	voltage
+	792	v(m.x1.xm11.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	793	v(m.x1.xm11.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	794	v(m.x1.xm12.msky130_fd_pr__pfet_01v8#body)	voltage
+	795	v(m.x1.xm12.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	796	v(m.x1.xm12.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	797	v(m.x2.x1.msky130_fd_pr__pfet_01v8#body)	voltage
+	798	v(m.x2.x1.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	799	v(m.x2.x1.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	800	v(m.x2.x2.msky130_fd_pr__pfet_01v8#body)	voltage
+	801	v(m.x2.x2.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	802	v(m.x2.x2.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	803	v(m.x2.x3.msky130_fd_pr__pfet_01v8#body)	voltage
+	804	v(m.x2.x3.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	805	v(m.x2.x3.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	806	v(m.x2.x5.msky130_fd_pr__pfet_01v8#body)	voltage
+	807	v(m.x2.x5.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	808	v(m.x2.x5.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	809	v(m.x2.x6.msky130_fd_pr__pfet_01v8#body)	voltage
+	810	v(m.x2.x6.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	811	v(m.x2.x6.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	812	v(m.x2.x9.msky130_fd_pr__nfet_01v8#body)	voltage
+	813	v(m.x2.x9.msky130_fd_pr__nfet_01v8#dbody)	voltage
+	814	v(m.x2.x9.msky130_fd_pr__nfet_01v8#sbody)	voltage
+	815	v(m.x2.x10.msky130_fd_pr__pfet_01v8#body)	voltage
+	816	v(m.x2.x10.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	817	v(m.x2.x10.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	818	v(m.x2.x11.msky130_fd_pr__pfet_01v8#body)	voltage
+	819	v(m.x2.x11.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	820	v(m.x2.x11.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	821	v(m.x2.x12.msky130_fd_pr__pfet_01v8#body)	voltage
+	822	v(m.x2.x12.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	823	v(m.x2.x12.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	824	v(m.x2.x13.msky130_fd_pr__pfet_01v8#body)	voltage
+	825	v(m.x2.x13.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	826	v(m.x2.x13.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	827	v(m.x2.x14.msky130_fd_pr__pfet_01v8#body)	voltage
+	828	v(m.x2.x14.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	829	v(m.x2.x14.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	830	v(m.x2.x15.msky130_fd_pr__pfet_01v8#body)	voltage
+	831	v(m.x2.x15.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	832	v(m.x2.x15.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	833	v(m.x2.x16.msky130_fd_pr__pfet_01v8#body)	voltage
+	834	v(m.x2.x16.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	835	v(m.x2.x16.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	836	v(m.x2.x17.msky130_fd_pr__pfet_01v8#body)	voltage
+	837	v(m.x2.x17.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	838	v(m.x2.x17.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	839	v(m.x2.x18.msky130_fd_pr__pfet_01v8#body)	voltage
+	840	v(m.x2.x18.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	841	v(m.x2.x18.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	842	v(m.x2.x19.msky130_fd_pr__nfet_01v8#body)	voltage
+	843	v(m.x2.x19.msky130_fd_pr__nfet_01v8#dbody)	voltage
+	844	v(m.x2.x19.msky130_fd_pr__nfet_01v8#sbody)	voltage
+	845	v(m.x2.x20.msky130_fd_pr__nfet_01v8#body)	voltage
+	846	v(m.x2.x20.msky130_fd_pr__nfet_01v8#dbody)	voltage
+	847	v(m.x2.x20.msky130_fd_pr__nfet_01v8#sbody)	voltage
+	848	v(m.x2.x21.msky130_fd_pr__pfet_01v8#body)	voltage
+	849	v(m.x2.x21.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	850	v(m.x2.x21.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	851	v(m.x2.x22.msky130_fd_pr__pfet_01v8#body)	voltage
+	852	v(m.x2.x22.msky130_fd_pr__pfet_01v8#dbody)	voltage
+	853	v(m.x2.x22.msky130_fd_pr__pfet_01v8#sbody)	voltage
+	854	v(m.x2.x23.msky130_fd_pr__nfet_01v8#body)	voltage
+	855	v(m.x2.x23.msky130_fd_pr__nfet_01v8#dbody)	voltage
+	856	v(m.x2.x23.msky130_fd_pr__nfet_01v8#sbody)	voltage
+	857	v(net2)	voltage
+	858	v(net3)	voltage
+	859	v(out)	voltage
+	860	v(outp)	voltage
+	861	i(v1)	current
+	862	i(vbias)	current
+	863	i(vbiasr)	current
+	864	v(vdd)	voltage
+	865	v(x1.d2)	voltage
+	866	v(x1.d9)	voltage
+	867	v(x1.d10)	voltage
+	868	v(x1.g)	voltage
+	869	v(x1.net1)	voltage
+	870	v(x1.s)	voltage
+	871	v(x1.vc)	voltage
+	872	v(x1.vp)	voltage
+	873	v(x1.xr1.xsky130_fd_pr__res_xhigh_po_0p35.ra)	voltage
+	874	v(x1.xr2.xsky130_fd_pr__res_xhigh_po_0p35.ra)	voltage
+	875	v(x1.xr3.xsky130_fd_pr__res_xhigh_po_0p35.ra)	voltage
+	876	v(x1.xr5.xsky130_fd_pr__res_xhigh_po_0p35.ra)	voltage
+	877	v(x2.a_3651_12640#)	voltage
+	878	v(x2.d1)	voltage
+	879	v(x2.d1.n0)	voltage
+	880	v(x2.d1.n1)	voltage
+	881	v(x2.d1.n2)	voltage
+	882	v(x2.d1.n3)	voltage
+	883	v(x2.d1.t0)	voltage
+	884	v(x2.d1.t1)	voltage
+	885	v(x2.d1.t2)	voltage
+	886	v(x2.d1.t3)	voltage
+	887	v(x2.d1.t4)	voltage
+	888	v(x2.d1.t5)	voltage
+	889	v(x2.d1.t6)	voltage
+	890	v(x2.d2)	voltage
+	891	v(x2.d2.n0)	voltage
+	892	v(x2.d2.n1)	voltage
+	893	v(x2.d2.n2)	voltage
+	894	v(x2.d2.n3)	voltage
+	895	v(x2.d2.n4)	voltage
+	896	v(x2.d2.n5)	voltage
+	897	v(x2.d2.n6)	voltage
+	898	v(x2.d2.n7)	voltage
+	899	v(x2.d2.n8)	voltage
+	900	v(x2.d2.n9)	voltage
+	901	v(x2.d2.t0)	voltage
+	902	v(x2.d2.t1)	voltage
+	903	v(x2.d2.t2)	voltage
+	904	v(x2.d2.t3)	voltage
+	905	v(x2.d2.t4)	voltage
+	906	v(x2.d2.t5)	voltage
+	907	v(x2.d2.t6)	voltage
+	908	v(x2.d9)	voltage
+	909	v(x2.d9.n0)	voltage
+	910	v(x2.d9.n1)	voltage
+	911	v(x2.d9.n2)	voltage
+	912	v(x2.d9.n3)	voltage
+	913	v(x2.d9.n4)	voltage
+	914	v(x2.d9.n5)	voltage
+	915	v(x2.d9.n6)	voltage
+	916	v(x2.d9.n7)	voltage
+	917	v(x2.d9.n8)	voltage
+	918	v(x2.d9.n9)	voltage
+	919	v(x2.d9.t0)	voltage
+	920	v(x2.d9.t1)	voltage
+	921	v(x2.d9.t2)	voltage
+	922	v(x2.d10)	voltage
+	923	v(x2.d10.n0)	voltage
+	924	v(x2.d10.n1)	voltage
+	925	v(x2.d10.n2)	voltage
+	926	v(x2.d10.n3)	voltage
+	927	v(x2.d10.n4)	voltage
+	928	v(x2.d10.n5)	voltage
+	929	v(x2.d10.n6)	voltage
+	930	v(x2.d10.n7)	voltage
+	931	v(x2.d10.n8)	voltage
+	932	v(x2.d10.n9)	voltage
+	933	v(x2.d10.n10)	voltage
+	934	v(x2.d10.t0)	voltage
+	935	v(x2.d10.t1)	voltage
+	936	v(x2.d10.t2)	voltage
+	937	v(x2.g.n0)	voltage
+	938	v(x2.g.t0)	voltage
+	939	v(x2.g.t1)	voltage
+	940	v(x2.g.t2)	voltage
+	941	v(x2.g.t3)	voltage
+	942	v(x2.gnd.n0)	voltage
+	943	v(x2.gnd.n1)	voltage
+	944	v(x2.gnd.n2)	voltage
+	945	v(x2.gnd.n3)	voltage
+	946	v(x2.gnd.n4)	voltage
+	947	v(x2.gnd.n5)	voltage
+	948	v(x2.gnd.n6)	voltage
+	949	v(x2.gnd.n7)	voltage
+	950	v(x2.gnd.n8)	voltage
+	951	v(x2.gnd.n9)	voltage
+	952	v(x2.gnd.n10)	voltage
+	953	v(x2.gnd.n11)	voltage
+	954	v(x2.gnd.n12)	voltage
+	955	v(x2.gnd.n13)	voltage
+	956	v(x2.gnd.n14)	voltage
+	957	v(x2.gnd.n15)	voltage
+	958	v(x2.gnd.n16)	voltage
+	959	v(x2.gnd.n17)	voltage
+	960	v(x2.gnd.n18)	voltage
+	961	v(x2.gnd.n19)	voltage
+	962	v(x2.gnd.n20)	voltage
+	963	v(x2.gnd.n21)	voltage
+	964	v(x2.gnd.n22)	voltage
+	965	v(x2.gnd.n23)	voltage
+	966	v(x2.gnd.n24)	voltage
+	967	v(x2.gnd.n25)	voltage
+	968	v(x2.gnd.n26)	voltage
+	969	v(x2.gnd.n27)	voltage
+	970	v(x2.gnd.n28)	voltage
+	971	v(x2.gnd.n29)	voltage
+	972	v(x2.gnd.n30)	voltage
+	973	v(x2.gnd.n31)	voltage
+	974	v(x2.gnd.n32)	voltage
+	975	v(x2.gnd.n33)	voltage
+	976	v(x2.gnd.n34)	voltage
+	977	v(x2.gnd.n35)	voltage
+	978	v(x2.gnd.n36)	voltage
+	979	v(x2.gnd.n37)	voltage
+	980	v(x2.gnd.n38)	voltage
+	981	v(x2.gnd.n39)	voltage
+	982	v(x2.gnd.n40)	voltage
+	983	v(x2.gnd.n41)	voltage
+	984	v(x2.gnd.n42)	voltage
+	985	v(x2.gnd.n43)	voltage
+	986	v(x2.gnd.n44)	voltage
+	987	v(x2.gnd.n45)	voltage
+	988	v(x2.gnd.n46)	voltage
+	989	v(x2.gnd.n47)	voltage
+	990	v(x2.gnd.n48)	voltage
+	991	v(x2.gnd.n49)	voltage
+	992	v(x2.gnd.n50)	voltage
+	993	v(x2.gnd.n51)	voltage
+	994	v(x2.gnd.n52)	voltage
+	995	v(x2.gnd.n53)	voltage
+	996	v(x2.gnd.n54)	voltage
+	997	v(x2.gnd.n55)	voltage
+	998	v(x2.gnd.n56)	voltage
+	999	v(x2.gnd.n57)	voltage
+	1000	v(x2.gnd.n58)	voltage
+	1001	v(x2.gnd.n59)	voltage
+	1002	v(x2.gnd.n60)	voltage
+	1003	v(x2.gnd.n61)	voltage
+	1004	v(x2.gnd.n62)	voltage
+	1005	v(x2.gnd.n63)	voltage
+	1006	v(x2.gnd.n64)	voltage
+	1007	v(x2.gnd.n65)	voltage
+	1008	v(x2.gnd.n66)	voltage
+	1009	v(x2.gnd.n67)	voltage
+	1010	v(x2.gnd.n68)	voltage
+	1011	v(x2.gnd.n69)	voltage
+	1012	v(x2.gnd.n70)	voltage
+	1013	v(x2.gnd.n71)	voltage
+	1014	v(x2.gnd.n72)	voltage
+	1015	v(x2.gnd.n73)	voltage
+	1016	v(x2.gnd.n74)	voltage
+	1017	v(x2.gnd.n75)	voltage
+	1018	v(x2.gnd.n76)	voltage
+	1019	v(x2.gnd.n77)	voltage
+	1020	v(x2.gnd.n78)	voltage
+	1021	v(x2.gnd.n79)	voltage
+	1022	v(x2.gnd.n80)	voltage
+	1023	v(x2.gnd.n81)	voltage
+	1024	v(x2.gnd.n82)	voltage
+	1025	v(x2.gnd.n83)	voltage
+	1026	v(x2.gnd.n84)	voltage
+	1027	v(x2.gnd.n85)	voltage
+	1028	v(x2.gnd.n86)	voltage
+	1029	v(x2.gnd.n87)	voltage
+	1030	v(x2.gnd.n88)	voltage
+	1031	v(x2.gnd.n89)	voltage
+	1032	v(x2.gnd.n90)	voltage
+	1033	v(x2.gnd.n91)	voltage
+	1034	v(x2.gnd.n92)	voltage
+	1035	v(x2.gnd.n93)	voltage
+	1036	v(x2.gnd.n94)	voltage
+	1037	v(x2.gnd.n95)	voltage
+	1038	v(x2.gnd.n96)	voltage
+	1039	v(x2.gnd.n97)	voltage
+	1040	v(x2.gnd.n98)	voltage
+	1041	v(x2.gnd.n99)	voltage
+	1042	v(x2.gnd.n100)	voltage
+	1043	v(x2.gnd.n101)	voltage
+	1044	v(x2.gnd.n102)	voltage
+	1045	v(x2.gnd.n103)	voltage
+	1046	v(x2.gnd.n104)	voltage
+	1047	v(x2.gnd.n105)	voltage
+	1048	v(x2.gnd.n106)	voltage
+	1049	v(x2.gnd.t0)	voltage
+	1050	v(x2.gnd.t1)	voltage
+	1051	v(x2.gnd.t2)	voltage
+	1052	v(x2.gnd.t3)	voltage
+	1053	v(x2.gnd.t4)	voltage
+	1054	v(x2.gnd.t5)	voltage
+	1055	v(x2.gnd.t6)	voltage
+	1056	v(x2.gnd.t7)	voltage
+	1057	v(x2.gnd.t8)	voltage
+	1058	v(x2.gnd.t9)	voltage
+	1059	v(x2.gnd.t10)	voltage
+	1060	v(x2.gnd.t11)	voltage
+	1061	v(x2.in+.t0)	voltage
+	1062	v(x2.in+.t1)	voltage
+	1063	v(x2.in+.t2)	voltage
+	1064	v(x2.in+.t3)	voltage
+	1065	v(x2.in+.t4)	voltage
+	1066	v(x2.in-.t0)	voltage
+	1067	v(x2.in-.t1)	voltage
+	1068	v(x2.in-.t2)	voltage
+	1069	v(x2.in-.t3)	voltage
+	1070	v(x2.in-.t4)	voltage
+	1071	v(x2.out.n0)	voltage
+	1072	v(x2.out.t0)	voltage
+	1073	v(x2.out.t1)	voltage
+	1074	v(x2.vc)	voltage
+	1075	v(x2.vc.n0)	voltage
+	1076	v(x2.vc.n1)	voltage
+	1077	v(x2.vc.n2)	voltage
+	1078	v(x2.vc.n3)	voltage
+	1079	v(x2.vc.n4)	voltage
+	1080	v(x2.vc.n5)	voltage
+	1081	v(x2.vc.n6)	voltage
+	1082	v(x2.vc.n7)	voltage
+	1083	v(x2.vc.t0)	voltage
+	1084	v(x2.vc.t1)	voltage
+	1085	v(x2.vc.t2)	voltage
+	1086	v(x2.vc.t3)	voltage
+	1087	v(x2.vc.t4)	voltage
+	1088	v(x2.vc.t5)	voltage
+	1089	v(x2.vc.t6)	voltage
+	1090	v(x2.vc.t7)	voltage
+	1091	v(x2.vdd.n0)	voltage
+	1092	v(x2.vdd.n1)	voltage
+	1093	v(x2.vdd.n2)	voltage
+	1094	v(x2.vdd.n3)	voltage
+	1095	v(x2.vdd.n4)	voltage
+	1096	v(x2.vdd.n5)	voltage
+	1097	v(x2.vdd.n6)	voltage
+	1098	v(x2.vdd.n7)	voltage
+	1099	v(x2.vdd.n8)	voltage
+	1100	v(x2.vdd.n9)	voltage
+	1101	v(x2.vdd.n10)	voltage
+	1102	v(x2.vdd.n11)	voltage
+	1103	v(x2.vdd.n12)	voltage
+	1104	v(x2.vdd.n13)	voltage
+	1105	v(x2.vdd.n14)	voltage
+	1106	v(x2.vdd.n15)	voltage
+	1107	v(x2.vdd.n16)	voltage
+	1108	v(x2.vdd.n17)	voltage
+	1109	v(x2.vdd.n18)	voltage
+	1110	v(x2.vdd.n19)	voltage
+	1111	v(x2.vdd.n20)	voltage
+	1112	v(x2.vdd.n21)	voltage
+	1113	v(x2.vdd.n22)	voltage
+	1114	v(x2.vdd.n23)	voltage
+	1115	v(x2.vdd.n24)	voltage
+	1116	v(x2.vdd.n25)	voltage
+	1117	v(x2.vdd.n26)	voltage
+	1118	v(x2.vdd.n27)	voltage
+	1119	v(x2.vdd.n28)	voltage
+	1120	v(x2.vdd.n29)	voltage
+	1121	v(x2.vdd.n30)	voltage
+	1122	v(x2.vdd.n31)	voltage
+	1123	v(x2.vdd.n32)	voltage
+	1124	v(x2.vdd.n33)	voltage
+	1125	v(x2.vdd.n34)	voltage
+	1126	v(x2.vdd.n35)	voltage
+	1127	v(x2.vdd.n36)	voltage
+	1128	v(x2.vdd.n37)	voltage
+	1129	v(x2.vdd.n38)	voltage
+	1130	v(x2.vdd.n39)	voltage
+	1131	v(x2.vdd.n40)	voltage
+	1132	v(x2.vdd.n41)	voltage
+	1133	v(x2.vdd.n42)	voltage
+	1134	v(x2.vdd.n43)	voltage
+	1135	v(x2.vdd.n44)	voltage
+	1136	v(x2.vdd.n45)	voltage
+	1137	v(x2.vdd.n46)	voltage
+	1138	v(x2.vdd.n47)	voltage
+	1139	v(x2.vdd.n48)	voltage
+	1140	v(x2.vdd.n49)	voltage
+	1141	v(x2.vdd.n50)	voltage
+	1142	v(x2.vdd.n51)	voltage
+	1143	v(x2.vdd.t0)	voltage
+	1144	v(x2.vdd.t1)	voltage
+	1145	v(x2.vdd.t2)	voltage
+	1146	v(x2.vdd.t3)	voltage
+	1147	v(x2.vdd.t4)	voltage
+	1148	v(x2.vdd.t5)	voltage
+	1149	v(x2.vdd.t6)	voltage
+	1150	v(x2.vdd.t7)	voltage
+	1151	v(x2.vdd.t8)	voltage
+	1152	v(x2.vp)	voltage
+	1153	v(x2.vp.n0)	voltage
+	1154	v(x2.vp.n1)	voltage
+	1155	v(x2.vp.t0)	voltage
+	1156	v(x2.vp.t1)	voltage
+	1157	v(x2.vp.t2)	voltage
+	1158	v(x2.vp.t3)	voltage
+	1159	v(x2.w_1686_7818.n0)	voltage
+	1160	v(x2.w_1686_7818.n1)	voltage
+	1161	v(x2.w_1686_7818.n2)	voltage
+	1162	v(x2.w_1686_7818.n3)	voltage
+	1163	v(x2.w_1686_7818.n4)	voltage
+	1164	v(x2.w_1686_7818.n5)	voltage
+	1165	v(x2.w_1686_7818.n6)	voltage
+	1166	v(x2.w_1686_7818.n7)	voltage
+	1167	v(x2.w_1686_7818.n8)	voltage
+	1168	v(x2.w_1686_7818.n9)	voltage
+	1169	v(x2.w_1686_7818.n10)	voltage
+	1170	v(x2.w_1686_7818.n11)	voltage
+	1171	v(x2.w_1686_7818.n12)	voltage
+	1172	v(x2.w_1686_7818.n13)	voltage
+	1173	v(x2.w_1686_7818.n14)	voltage
+	1174	v(x2.w_1686_7818.n15)	voltage
+	1175	v(x2.w_1686_7818.n16)	voltage
+	1176	v(x2.w_1686_7818.n17)	voltage
+	1177	v(x2.w_1686_7818.n18)	voltage
+	1178	v(x2.w_1686_7818.n19)	voltage
+	1179	v(x2.w_1686_7818.n20)	voltage
+	1180	v(x2.w_1686_7818.n21)	voltage
+	1181	v(x2.w_1686_7818.n22)	voltage
+	1182	v(x2.w_1686_7818.n23)	voltage
+	1183	v(x2.w_1686_7818.n24)	voltage
+	1184	v(x2.w_1686_7818.n25)	voltage
+	1185	v(x2.w_1686_7818.n26)	voltage
+	1186	v(x2.w_1686_7818.n27)	voltage
+	1187	v(x2.w_1686_7818.n28)	voltage
+	1188	v(x2.w_1686_7818.t0)	voltage
+	1189	v(x2.w_1686_7818.t1)	voltage
+	1190	v(x2.w_1686_7818.t2)	voltage
+	1191	v(x2.w_1686_7818.t3)	voltage
+	1192	v(x2.w_1686_7818.t4)	voltage
+	1193	v(x2.w_1686_7818.t5)	voltage
+	1194	v(x2.w_1686_7818.t6)	voltage
+	1195	v(x2.w_1686_7818.t7)	voltage
+	1196	v(x2.w_1686_7818.t8)	voltage
+	1197	v(x2.w_1686_7818.t9)	voltage
+	1198	v(x2.w_1686_7818.t10)	voltage
+	1199	v(x2.w_1686_7818.t11)	voltage
+	1200	v(x2.w_1686_7818.t12)	voltage
+	1201	v(x2.w_1686_7818.t13)	voltage
+	1202	v(x2.w_1686_7818.t14)	voltage
+	1203	v(x2.w_1686_7818.t15)	voltage
+	1204	v(x2.w_1686_7818.t16)	voltage
+	1205	v(x2.w_1686_7818.t17)	voltage
+	1206	v(x2.w_1686_7818.t18)	voltage
+	1207	v(x2.w_1686_7818.t19)	voltage
+	1208	v(x2.w_1686_7818.t20)	voltage
+	1209	v(x2.x0.xsky130_fd_pr__res_xhigh_po_0p35.ra)	voltage
+	1210	v(x2.x4.xsky130_fd_pr__res_xhigh_po_0p35.ra)	voltage
+	1211	v(x2.x7.xsky130_fd_pr__res_xhigh_po_0p35.ra)	voltage
+	1212	v(x2.x8.xsky130_fd_pr__res_xhigh_po_0p35.ra)	voltage
+Binary:
+|g1Ç¼½?S$(¢Â¿S$(¢Â¿y)•§ã\¿g)•§ã\¿l)•§ã\¿k)•§ã\¿I$(¢Â¿n$(¢Â¿Û©³	C? Û©³	C?e;á‹]®?U;á‹]®?Êß¦³	C?¼ß¦³	C?ÏeŒ‹]®?úeŒ‹]®?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        n , ÷&’>‰ë/ ÷&’>ðŸw½£>A,v½£>h^û˜`”>ÃË•`”>}¼Á`”>Ñ:t¾`”>cÌd”>’ÛÊƒd”>eÞÉ+'¢>ågÝ'¢>˜¶e§‚q=kj˜dv‚>å¢:ºõª>:Æâ¹v,Y>IØùz,Y>
+ºõ7b-¢>_ñŸw+Vq=¦þ:VR‚>€’¶Ly,Y>ï$BÆŒv=¦òÝ2S¤‚>¡©Šîõª>ëiYðè¥x=BšÚyNV‚>¿W»üw,Y>í9ÕCŠ:Üÿ0z¼|œ>£ÂÌ)w,Y> G†þT‚>–ûž+§>ÙU´Åf±w¼ˆ”1vôW½Ž×4_‹=(§ø+Ïf„¼Ë6_°|<s€e›/Gõ<²a¤+`<À²Í—lÙ<‚DJÚJ¶¼^:¥+1½#.b®‡ßª<Ql,40ä+=Å •”†½Ã<m.‡‡^…¯¼M;n¶(H½«‡D«C=”‰Šuÿ†<t2jQ|á²¼]_YªZ¢M=g8 7£ºX='ž1¾gÎ¼À—³ïŠÉ¼[c–Ö[c²¼ççÏòàu®¼OGVÑì£=„ËXvŽ*=à¢úÖö/,=Ìh·çý=JR›½Ó²Û¼i¥ÍŠÀc-=ÖO´%ˆzÀ¼\JpU	Ž=Y Z…¡Q=•ùŠ„æµL=:ºõª>ìiŒ‹]®?ôÛ©³	C?ü«ýÈ·¼JÙU®46½—Ž2=­êÓV¥n°¼i: ë*·+½Ç.úüïÛ¼ˆÞn4F'*½lÄ¯kQ0=L¯ÓBs­½ˆaBèÀ¼
+¼VX&½„¥t¼±"=’ÛË´º+=	^Í{Ë,= s«=„b•ªj&=lR€.Vq=‰rÐ‚q=‡7Q¹l!=:~‚âQ==c=„+]=dukÉ±³E=	«Þ $É)=‡4†Î.e=ÌÌÜvQ±X=’û:6H½ûL“|+®C½ VÜœM½lMc„
+·X=»½¸~ÄJ½f{Ø¾­O½¹ße³C½º™2?W›™]®?Ö°§]®?
+ðša<½åB7z­-=÷Tn¿B!½©-Å)á=¼lg¾ ]=¾þ[dÛJ½8ü{½ÄJ=ôŠùØ«ÄO=»G¢]®?âÃÙ]®?“ã!ã®?jŠ¬~L=©ï¥]®?LÚ©³	C¿žß¦³	C?½øÅà(J¼        à¦ãê¿CÙ¼#õ>"ë<Öeõeô=`0¦…°!>Íº8>)Íí*àQ"¾_Hnº	¾Ÿ^øSçê=ri-~“Ö½Ÿœ| ³>kŒá¸['>ùÉtoçíç=ÃÎB‰Ü:ç½ShšñL7ç=j0wñç½W‹…ÿ¸=éþ-Q›§Ë½¶†KùÎ=|\YeíHß=€AÆwAøÑ½pÖèá­õ=ácc,»â=–JÔ™Kg>xâÛ!‚U#>;VX&”ø=–ÉE^=
+¾âUofgÜ½n#£ ä=iÅ××¸Ö=îQãŸÊö=Y2ÎJû=Ó?˜÷¥û½eaÜ>ß	Eu¤¸=øt?žÇ>lü%µîú½‹K†`î>G‡úv1¡þ½XJûÆ!¾ú£¸äú=~A!	Ét¾Ìëò>/ê¬Ñö&>˜?¤á­ð>Ç«\Ò˜ ¾Ã¡¹Î­x>X¯=ÉEÇ"¾³ðò2)$>h°,’à¾†ê~Œ">©›˜Jö=s>.‚>\¨>iJ†W>Þj„S¾~Á`ÄIQ>µoOÏG‰é½¯¦ÿmÄ=ŠZŽÇfv¾¤Nì
+G>›ò.ð2>KúýòaÂ@>îÛ‡•¾ôæa _\7>Xí°J€¾…¶ÖuU¶w¾êVe3OÍK>ú7}xšK¾>-ÕÚ£oi>¦,hU%W>%¶ÎâV•¾¿b¾&€A¾¼°í¢£[>J‰Ì<Õ=Õû¢#¾PuëC><;ŸA|q@>S‡3ž>3>áý2¶fJ¾ípN&ñ>Ïé.7M¾ÅðN¤’-¾°“! ‹û5¾hRÃ¯À?¾>â]—ö=ú¤„œ>Îˆ'8½>îçk°U>
+iŽãR>?ð7¨>ÔC{Ä~/>ŽÜR	dð+>Ø‚M­ðrè½%LâAƒ¡â½NåT¨ÜÅÉ=Ø{½Aš3Ú=Þn5¾ÜÁx&~3¾’ÌTµÁW¾WÝR½í¾+kªÎÉèE>pÜùÃàD>Ê>ê­y¡1>ÊÉŒ)^/?>%Gô$¤]¾Ã‡T¹³N>HÌÇÅmI*¾©bœõ±;>SÛÿD<>ldÓÊM_"¾ZPžahÑ½b‰Jª§>†ùödÜp>Þ¢•J¾¢yävº0K>dÁ§7œµ¾XzáÌ¾&·HL±.!¾ƒ˜å€#!¾Ð‘š“€s¾<•/Ý$s¾‹Û“l§áô=¼È{Ýq°ü=tÄ´“nbB¾Œ•Èí.D¾ö›vW¾vïJû%üX¾Î£|õH¾"7Ê˜¯ÁI¾Ø¡ÑÕFN>­|sé©K>¥DÇ[zb>¿zC_k0">Uµ6Ý—%¾ÅXýcÜ(&¾íôÃxËÔ!>ãÏ{@ÆqN>}P¾Ó2a2Fk>€|' k¾òú÷Kwq>f;á‹]®¿Ëß¦³	C¿ƒó7b-¢¾Oœ+§¾§á¿$´C¾³Ì´@ŽºD¾˜Œ×;2ê'¾‹Ç½¼'¾´@×Ó{1p¾¶qMÅq¾]S2°C¾ù@ì~{2B¾Ù#´š®Ü¾Võ`íU¾†æ#¹\â=Ó¦ž
+2¾&—àú–X2¾äØQ…C>Ö>;	qD>G~jx3>sM›Íñ4>vIüE@Em>E[]zetm>¥ÝRG†Q¾ÇËì¦» R¾û»)Ú×Y>Gœ‘ÕEëZ>ú…§¸L=>¾ÎâV•>X4fEx>üì¯¾™ØL¾éYŠ4TÀl>©cv«~-$>L3f ”S¾½ëë`.øP>KíŠ]¿éw>}^êí~p¾þ¿ŽØR¿f€üÐyK>ç»ìÊ¦l>-†ç-]C¿)´qü,C~>È7ö¢¿kË?æÚ¾P?ê¡%by>÷ë¬µ[Y¾–&¾ò[QH>U^áRªt>õ0ö#r>Öb¢ç?XÂÚ­ê@¿¼G‚ìž?Ðu2¬h¢¿#»œË¿‘*Ë€Íª>                œa-§¦x=üq8[”¦x½©Ç£±#‘¤<7`^ìÒé«¼Tç(»Ú<ãv¾Íð<R8.¨ñ<2\¿š)(à<ABæŽ*ï¼Gìpg=Nˆ¦5¿Œv=Üéü¢ÇU=·9}±ß]ñ<Pƒå+—#Þ¼O\Šß |½EÏ}OÅù¼ü¢ä—ŠU½ FëÉ™ŒU½¯¯X û¼¥YaqPV=1ø°¥Ãd=«¶¹U ¨U=                                        á‚wþ§>áðr“Ü}=ÙV'™dv‚¾ÙUzNV‚¾°ß¨3S¤‚¾Õ7‡þT‚¾ŒVöVR‚¾˜»Ñ~›>Øá#í]¢>†˜º§>¾±úIRT’>»~Fš?t¼%‰±>—I…<™dVÅ/t¼¶ZEÒQ…<l‰tõØ7½áù=Kš,I=4‚³OyÑ7½Óî¨]X0I=Fº}ÐÞˆo¼€ÿÆ|J¶<‘Vˆª¼ˆõö¿¼ù¤<&)>=½¡8xsaz=öÍ;È¡o½aäyPáÈh=A9I`¤¹<Ð=ôÅSã¦¼>™>u§¼7Æ#²K~='Åújµk½“L( @k½‡ÿy$$_º¼tZ†éOÁ<þ’y˜0	~½Ä’—ãL„=(<@n²Ê<*ôæ7ì=¡,¡äA Ð<nˆžCL“=Z+õª¾j÷§ç¬Ã<'ù)ë¶¼¡5Rl°r‡=(ÆO,‡{½S»ì¹v,Y>4îÖyNV‚>¶KE†þT‚>$]AVR‚>vLØ2S¤‚>×ùz,Y>p‡ÐLy,Y>Åbâüw,Y>=gµ)w,Y>Lk˜dv‚¾†çŽ#x>        \Ã¥;ßZ¬<…R¼l'DÅ¼\Ã¥;ßZÌ¼™ÌÇÇp½OK0qr½ ÈZ4è%‰½¢4S ú‰½ÕŠK3ó6×<tÀ|20‘>NŽ¹Édkš¾€ AòÊ¡¾¶â‘‹‡_¦¾iÈ±l=¡¡=@ÙAü-i>8Œnxæár>ðàË-y>*a"âª.Y>	È~NV‚>        »º&AC;¼¼³`UJK¼…Ævþ%@¼/gŒ‹]®¿°:á‹]®?4ñ4?/Òe<        Û½ª™ ü¨<Åõè JÝ¼7}ø¨+I¾<âÝxL™Ná¼ecfŽ©ì<•/NEOæ¼Nl€eøåè¼ðÊz€
+©Ü¼ðÊz€
+©ü¼ÈÉJÂ=X"=YÀDÕc$'=ãÙK¡šØ,½                                2BalæD¼‹ñbsb-¢>[B¼|œ¾fûNþç,Y¾@:Ñè,Y¾6!ê,Y¾’½ZÎë,Y¾£Ì`Žç,Y¾uòœœ›V¾Å+Í
+¨{G¾‰Ú’#x>ã>O—@Å'¾‹¨¦ño–%>ÖÏLRdÿI¾x¶Ú¬R
+¾nAÛ—ÅÝ:>°k è;;>‡~EöE¾} goWvF>_'˜j<Ñy>!“˜K 5J>Dß"VC¾¶Þ‰Þ€ž>5Ùtí4Y>ÐtåtŒ–p>$Mn”A>êË–Ô?­j>d`VÞdX>Œ\]²J¹¼ú°\!"¼tØ‚)D<<®ÞªœëV<fWðòÛ6R¼3ëC%I8¼ÖP¬zF<Ônd¿X<å ¶æ¥x=µ…#Ÿì…w<µ…#Ÿì…w<;J‰§x½ÏÎû|#–¼ƒƒÁ:\¬»<·ä¸Xk,Á<~’˜¯Êúˆ¼TW›¢Š¿<        ]‰\½(s¸¼û'ÏtÀ|œ>ÏµYÒ|½K3 m¹|œ>                ÍÌÌÌÌÌì?ÍÌÌÌÌÌì?ÓúšfÍû?Ìæ˜fÍû?†²›fÍû?ÒúšfÍû?Ìæ˜fÍû?†²›fÍû?øÝÅ%Øz=Ã;‰u&A=†zë5Ýj=aÆ Øz=‘air&A=ƒ¶ë0Ýj=ŒÓíîa*¬=t­ÈVuß¿=Ù|ú¹Ó¢¤=•{<Ba*¬=~ãˆtß¿=Ì–abÓ¢¤=¹ºÚÂä(ü?$žÙÂä(ü?ÛÛÂä(ü?“Âä(ü?nvŽÂä(ü?&óÂä(ü?ÕÁÌÌÌÌü?a±ÌÌÌÌü?QÇÌÌÌÌü?ÖÁÌÌÌÌü?a±ÌÌÌÌü?RÇÌÌÌÌü?ß·ÌÌÌÌü?È¥ÌÌÌÌü?µÌÌÌÌü?'ÆÌÌÌÌü?0¼ÌÌÌÌü?{ÉÌÌÌÌü?]”ËìËü?½ÖËìËü?EÍËìËü?2KÐû?2KÐû?æ1KÐû?^›NOÌü?z NOÌü?ŒNOÌü?µP]ÔÎû?·^ÔÎû?^C[ÔÎû?¯(5ÓÎû?²Ù5ÓÎû?X3ÓÎû?	æ	¿*?~9@¿*?ÀÅr¿*?²sCIÌü?n¡CIÌü?|êCIÌü?ê9KÐû?ò9KÐû?Ð9KÐû?¾ŠÓÎû?À;ÓÎû?h}ÓÎû?=Ê&*;_ó?í&*;_ó?Êa&*;_ó?Þ2KÐû?é2KÐû?Â2KÐû?`NOÌü?”\NOÌü?€ANOÌü? Ã[xð_ö?Ã[xð_ö?ôÂ[xð_ö?CKÐû?$CKÐû?CKÐû?UMÔÎû?WþÔÎû?þ?‹ÔÎû?Å/$÷p)?"–q)?9ïÞ)q)?ç•F9§»*?à¾ý\§»*?Œn51§»*?¾ž¯ÓÎû?ÀO°ÓÎû?h‘­ÓÎû?‰EKÐû?’EKÐû?oEKÐû?1d4(¡)?¯Åü‚•)?ç¾¹%•)?ÜÌÊ¥Îì?        ÜÌÊ¥Îì?        E­ºC5Å%¿   m¹|œ¾       <ÍÌÌÌÌÌü?J£˜+Ç¼½? {ÛÂä(ü?JSÂä(ü?Ð;ˆ¦Îì?6÷|°Xü?<jœfÍû?2ÛÒlæ?gÿç8Ž à?`ÑKš}z—?]¼©béà?¤PØ¦èS›?À’Õ.ç?@µá%ü?¨×§û?ŠÌú§¦û?ÓtK¦Ÿû?Y›D¡û?!P¤û?aR9¾û?#íG¦Ÿû?»Ò|€ªû?	 ™»§û?N)r·¤û?‹|Ëƒªû?HI
+ªû?ÕèsUº?Xf`pº?;[gº?ÔÑ©Ïº?<…ë:º?ôÛîfº?œ±AÇº?«@<º?Ùãzº?ÚRº?Ìä¯hº?/Æ*¢&º?Óˆ¹˜&º?Ð¬¶l&º?#–u&º?r%™&º?>úV(ïº?¬6QÖ‹º?$Ã[xð_ö? Ã[xð_ö?Ã[xð_ö?Ã[xð_ö?Ã[xð_ö?Ã[xð_ö?Ã[xð_ö?Ã[xð_ö?
+Ã[xð_ö?Ã[xð_ö?Ã[xð_ö?
+Ã[xð_ö?ƒYxð_ö?N¢\xð_ö?Q'*;_ó?(N'*;_ó?'*;_ó?/'*;_ó?e&'*;_ó?j'*;_ó?&'*;_ó?†'*;_ó?û'*;_ó?æ>'*;_ó?£?'*;_ó?ð’'*;_ó?ß'*;_ó?3Ž%*;_ó?í›(*;_ó?:(òÓr_ö?<¤ôÓr_ö?TìîÓr_ö?:(òÓr_ö?:(òÓr_ö?Øž.ç–'?s½^”Š$?vN¥V&?šOžK4&??#âÅÄS&?]eæeÐ*&?û£çéP&? ckí$?%\•¥À$?M¬áL"*?TðÉý@*?»1‚!ÿ(?Æ•wCšx)?b†¸L<9)?Fß"øÀÒ)?Ñ oó±ƒ*?&GàÈÕ†*?ñz$Ïò·*?~òô}#À*? +ZOX³*?|”žcA¶*?@ª_¾/?üa°À§º*?ç…Ò&¼*?êŠóý¯*?µ­RB)84?•˜s?!4?_°…ÌÅƒ3?#T
+u4?ˆ­“²j3?a&‘-4?ÿÙw`‘*?kË®ËÓ3?Úç­˜Õ3?f–^ãrØ3?U’¨Q54?•¤¹84?TÖtòü24?êI>ún34? o÷z34?Û){·Á/4?ðg04?6
+â¤/4?k²Öâ?/4?"áÓOÒ4?xË>M×4?óZTØN3?B	=[?4?y¾1|¢4?5[~£4?¹ªzç°4?p £tˆ84? ì–â±¯)?²SÂ0¾³*?°±)Ú¦²*?‡XCþÖ¸*?[oH¿µ*?ˆšVKì‰*?ÏŸ&*ËŒ*?ƒóàðÃ¸*?­³OÁTÊ*?üƒÏÚì*?°>öx˜+?çõ»niy+?¿["Q@+?Däôn|+?0-ÕêÃ*?À…ÖóJ‘*?CsI|*?²éÊ9e*?Eã„`)?!Õ5à‹\(?‰Çx?N)?"Þ3áô(?aG„›‹ê(?i¼ºû™'?›0Í=¶¥'?¤¾bPHª'?jÑî+Â5)?•_ÄÿD)?ÅU›ÉßT)?¥J’¦ì•)?¼ÐyWˆµ)?Þ†xU Ø)?S¸ˆR)?«Œ\A*Y)?àø«·¥<)?:îYÝ7)?NncBi8)?#ý&8)?~â»¿á$?ZÖÁÞ$?ûˆ·6ÏÛ$?Tú­5õí$??óL
+$?WgvË %?qête*%?uÅÖ%?CÉ€r× &?.mÄ„D&?ý4-ÏÅB&?¹OÒ`]a&?Î)Z…&?:üëÉË…&?8˜`bºŠ&?N†‘Ñ‡$?\#œ
+¢ë>Œ¨…6qA&?3`Ë,ñ`?ßÿ¿*?žr=d£,?fð6é3?ûè@¤_?í“>#‰)?vt°)T+?ƒúm§»*?ó ÷¡p)?×½ŸwÖ24?€µëì$?                                        ÎÌÌÌÌÌì?ÎÌÌÌÌÌì?ÎÌÌÌÌÌì?ÎÌÌÌÌÌì?ÎÌÌÌÌÌì?L)?}ÈÌì?b Ö­Ìì?—‹D}ÈÌì?áÀûSsæ?áÀûSsæ?áÀûSsæ?áÀûSsæ?áÀûSsæ?áÀûSsæ?
+áÀûSsæ?áÀûSsæ?áÀûSsæ?D‘kLfæ?±b}Ôª€æ?áÀûSsæ?áÀûSsæ?áÀûSsæ?áÀûSsæ?áÀûSsæ?áÀûSsæ?`áCIÌü?~ÛCIÌü?˜ØCIÌü?EÜCIÌü?þÑCIÌü?ÜCIÌü?¨ÕCIÌü?ÑCIÌü?ÌT$CIÌü?ž~$CIÌü?õñ&CIÌü?ú8ËìËü?{,	ËìËü?D,	ËìËü? ËìËü?8(	ËìËü?
+!	ËìËü?v	ËìËü?6	ËìËü?ƒ(	ËìËü?(7	ËìËü?ÙKËìËü?PeËìËü?ÈhNýËü?%&d4Ìü?:	'CIÌü?Á•NOÌü?°”NOÌü?ÊƒNOÌü?TŒNOÌü?ŸŽNOÌü?SŽNOÌü?í‚NOÌü?Ë‹NOÌü?ÏNOÌü?¶NOÌü?‚NOÌü?‰«NOÌü?)«NOÌü?"¦NOÌü?³¨NOÌü?Z©NOÌü?C©NOÌü?ß¥NOÌü?ƒ¨NOÌü?¸NOÌü?ùNOÌü? NOÌü?"NOÌü?Ï"NOÌü?ŒnbwÌü? >Äø¯Ìü?—¥NOÌü?ºÏƒÏNÌü?	ËìËü?GrgNýËü?þNOÌü?0ÏCIÌü?8‰d4Ìü?;ìja4Åü?b+~ðÄü?)…I*à?(…I*à?+…I*à?j#Ò¶‡ÿß?ë*H9åà?(…I*à?)…I*à?¿"ÔÎû?×ŽÔÎû?üéŽÔÎû?*ÄŽÔÎû?žSÔÎû?jÔÎû?JQÕÎû?w”ÕÎû?µ©ÖÎû?fåÖÎû?Åƒ ØÎû?U–ðÝÎû?,¾ÆåÎû?Z6ðÎû?TqM&Ïû?£EKÐû?›EKÐû? EKÐû?›EKÐû?p?KÐû?;?KÐû?SKÐû?mSKÐû?ºZKÐû?ÀZKÐû?Ì<;Ðû?‘.hÎÏû?XÆ!ƒÏû?ÒNñJÏû?i£&­øû?º²^ÔÎû?ÄçôBÎû?µŠ6ÓÎû?gè]Îû?ÄìÓÎû?Ÿ¬RÎû?Z¯ŽÔÎû?Ø~ÖJÎû?Ä ±ÓÎû?q†EÎû?œEKÐû?kž&*Ìû?-CKÐû? †¸Ìû?ò2KÐû?‘¿Õ¾Ëû?ý9KÐû?<GéuÌû?2KÐû?äÕÜëËû?\ÝkÆQü?ùm%>«å?6Eö©>LÞ?Þn>À›dü?
